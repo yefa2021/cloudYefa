@@ -1,4 +1,4 @@
-package com.yefa.springcloud.com.yefa.conffig;
+package com.yefa.springcloud.conffig;
 
 import feign.Logger;
 import org.springframework.context.annotation.Bean;
